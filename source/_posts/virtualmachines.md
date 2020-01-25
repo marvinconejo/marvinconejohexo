@@ -1,7 +1,7 @@
 ---
 layout: '[layout]'
-title: How create a Virtual Machine in Windows 10
-date: 2020-01-23 19:45:32
+title: How create a Virtual Machine windows 10 in Azure
+date: 2020-01-24 18:40:32
 tags: Azure
 ---
 In this opportunity I come to teach how to configure a virtual machine in azure, as I have commented in several posts it is important to have an azure account https://portal.azure.com/, when we are in the azure portal we go to the option of virtual machines and we give you the option to add
